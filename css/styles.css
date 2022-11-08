@@ -68,44 +68,44 @@ img {
   padding: 0 15px;
   margin: 0 auto;
 } */
-.header {
+/* .header {
   color: var(--color-secondary);
   font-weight: var(--font-weight-header);
   line-height: 1.14;
   letter-spacing: 0.02em;
-}
-.container-header {
+} */
+/* .container-header {
   display: flex;
   justify-content: space-between;
   align-items: center;
   border-bottom: 1px solid #ececec;
-}
-.logo-first {
+} */
+/* .logo-first {
   color: var(--color-accent);
   font-family: var(--font-family-logo);
   font-weight: var(--font-weight-heading);
   font-size: var(--font-size-logo);
   line-height: 1.2;
   text-decoration: none;
-}
-.logo-second {
+} */
+/* .logo-second {
   color: var(--color-logo);
-}
-.nav-container {
+} */
+/* .nav-container {
   display: flex;
   align-items: center;
   gap: 93px;
-}
-.nav-list {
+} */
+/* .nav-list {
   display: flex;
   padding: 32px 0;
   gap: 50px;
-}
-.nav-list .current {
+} */
+/* .nav-list .current {
   position: relative;
   color: var(--color-accent);
-}
-.current::before {
+} */
+/* .current::before {
   position: absolute;
   top: 45px;
   content: " ";
@@ -113,36 +113,36 @@ img {
   height: 4px;
   border-radius: 2px;
   background-color: var(--background-color-button);
-}
-.nav-link {
+} */
+/* .nav-link {
   color: inherit;
   text-decoration: none;
   transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
-.nav-link:hover,
+} */
+/* .nav-link:hover,
 .nav-link:focus {
   color: var(--color-accent);
-}
-.contact-list {
+} */
+/* .contact-list {
   display: flex;
   padding: 32px 0;
   gap: 50px;
-}
-.list-link {
+} */
+/* .list-link {
   display: flex;
   align-items: center;
   color: var(--color-primary);
   text-decoration: none;
   transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
-.list-link:hover,
+} */
+/* .list-link:hover,
 .list-link:focus {
   color: var(--color-accent);
-}
-.contact-icon {
+} */
+/* .contact-icon {
   margin-right: 10px;
   fill: currentColor;
-}
+} */
 .hero {
   max-width: 1600px;
   margin: 0 auto;
@@ -330,9 +330,9 @@ img {
 .addres-wrapper {
   margin-right: 70px;
 }
-.logo-invert {
+/* .logo-invert {
   color: var(--color-invert);
-}
+} */
 .address {
   margin-top: 20px;
   font-style: normal;
