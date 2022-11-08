@@ -17,24 +17,24 @@
       href="https://fonts.googleapis.com/css2?family=Raleway:wght@700&family=Roboto:wght@400;500;700;900&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="./css/styles.css" />
+    <link rel="stylesheet" href="./css/main.min.css" />
     <title>WebStudio</title>
   </head>
   <body>
     <header class="header">
-      <div class="container container-header">
-        <nav class="nav-container">
+      <div class="container header__container">
+        <nav class="nav">
           <a
             href="./index.html"
-            class="logo-first"
+            class="logo logo__main"
             rel="noreferrer noopener nofollow"
             lang="en"
-            >Web<span class="logo-second">Studio</span></a
+            >Web<span class="logo__second">Studio</span></a
           >
-          <ul class="nav-list">
+          <ul class="nav__list">
             <li>
               <a
-                class="nav-link current"
+                class="nav__link nav__link--current"
                 href="./index.html"
                 rel="noreferrer noopener nofollow"
                 >Студія</a
@@ -42,7 +42,7 @@
             </li>
             <li>
               <a
-                class="nav-link"
+                class="nav__link"
                 href="./portfolio.html"
                 rel="noreferrer noopener nofollow"
                 >Портфоліо</a
@@ -50,7 +50,7 @@
             </li>
             <li>
               <a
-                class="nav-link"
+                class="nav__link"
                 href=""
                 target="_blank"
                 rel="noreferrer noopener nofollow"
@@ -59,18 +59,18 @@
             </li>
           </ul>
         </nav>
-        <ul class="contact-list">
+        <ul class="contacts">
           <li>
-            <a class="list-link" href="mailto:info@devstudio.com">
-              <svg class="contact-icon" width="16" height="12">
+            <a class="contacts__link" href="mailto:info@devstudio.com">
+              <svg class="contacts__icon" width="16" height="12">
                 <use href="./images/icons.svg#icon-envelope"></use>
               </svg>
               info@devstudio.com</a
             >
           </li>
           <li>
-            <a class="list-link" href="tel:+380961111111">
-              <svg class="contact-icon" width="10" height="16">
+            <a class="contacts__link" href="tel:+380961111111">
+              <svg class="contacts__icon" width="10" height="16">
                 <use href="./images/icons.svg#icon-smartphone"></use>
               </svg>
               +38 096 111 11 11</a
@@ -400,10 +400,12 @@
           <div class="addres-wrapper">
             <a
               href="./index.html"
-              class="logo-first"
+              class="logo logo__main"
               rel="noreferrer noopener nofollow"
               lang="en"
-              >Web<span class="logo-invert">Studio</span></a
+              >Web<span class="logl__second logo__second--invert"
+                >Studio</span
+              ></a
             >
             <address class="address">
               <ul>
