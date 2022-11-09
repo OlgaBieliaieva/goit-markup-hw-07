@@ -1,4 +1,4 @@
-// common styles for sections
+// structure and common styles for sections
 .section {
   padding: 94px 0;
 }
@@ -14,18 +14,17 @@
   display: flex;
   gap: 30px;
 }
-// .section__card {
 
-//   .card__description {
-//   }
-// }
+// .section__card
+
 .card__title {
   color: var(--color-secondary);
   font-weight: var(--font-weight-heading);
   font-size: var(--font-size-primary);
   line-height: 1.14;
 }
-// .card__image {
-// }
-// .image__wrapper {
-// }
+// .card__description
+
+// .card__image
+
+// .image__wrapper
