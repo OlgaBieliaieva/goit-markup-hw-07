@@ -190,17 +190,17 @@ img {
 .hero-button:active {
   background-color: var(--background-color-button-active);
 } */
-.benefits {
+/* .benefits {
   padding-bottom: 0;
-}
-.benefits-list {
+} */
+/* .benefits-list {
   display: flex;
   gap: 30px;
-}
-.benefits-item {
+} */
+/* .benefits-item {
   width: 270px;
-}
-.icon-wrapper {
+} */
+/* .icon-wrapper {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -208,34 +208,34 @@ img {
   background-color: var(--background-color-secondary);
   border-radius: 4px;
   margin-bottom: 30px;
-}
-.section-title {
+} */
+/* .section-title {
   margin-bottom: 50px;
   text-align: center;
   color: var(--color-secondary);
   font-weight: var(--font-weight-heading);
   font-size: var(--font-size-heading);
   line-height: 1.17;
-}
-.benefits .item-title {
+} */
+/* .benefits .item-title {
   margin-bottom: 10px;
   color: var(--color-secondary);
   font-weight: var(--font-weight-heading);
   font-size: var(--font-size-primary);
   line-height: 1.14;
   text-transform: uppercase;
-}
-.benefits .item-text {
+} */
+/* .benefits .item-text {
   line-height: 1.71;
-}
-.section-list {
+} */
+/* .section-list {
   display: flex;
   gap: 30px;
-}
-.service-item-wrapper {
+} */
+/* .service-item-wrapper {
   position: relative;
-}
-.service-item-title {
+} */
+/* .service-item-title {
   position: absolute;
   bottom: 0px;
   width: 370px;
@@ -247,7 +247,7 @@ img {
   font-weight: var(--font-weight-heading);
   line-height: 1.14;
   text-transform: uppercase;
-}
+} */
 .our-team {
   background-color: var(--background-color-secondary);
 }
