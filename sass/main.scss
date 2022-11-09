@@ -1,6 +1,7 @@
 // utils
 @import "./utils/vars";
 @import "./utils/visually-hidden";
+@import "./utils/is-hidden";
 
 // base
 @import "./base/base";
@@ -13,3 +14,9 @@
 @import "./components/hero";
 @import "./components/benefits";
 @import "./components/service";
+@import "./components/team";
+@import "./components/socials";
+@import "./components/clients";
+@import "./components/footer";
+@import "./components/modal";
+@import "./components/sign-up-form";
