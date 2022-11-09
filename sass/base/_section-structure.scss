@@ -1,0 +1,31 @@
+// common styles for sections
+.section {
+  padding: 94px 0;
+}
+.section__title {
+  margin-bottom: 50px;
+  text-align: center;
+  color: var(--color-secondary);
+  font-weight: var(--font-weight-heading);
+  font-size: var(--font-size-heading);
+  line-height: 1.17;
+}
+.section__list {
+  display: flex;
+  gap: 30px;
+}
+// .section__card {
+
+//   .card__description {
+//   }
+// }
+.card__title {
+  color: var(--color-secondary);
+  font-weight: var(--font-weight-heading);
+  font-size: var(--font-size-primary);
+  line-height: 1.14;
+}
+// .card__image {
+// }
+// .image__wrapper {
+// }

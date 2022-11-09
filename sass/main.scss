@@ -4,8 +4,12 @@
 
 // base
 @import "./base/base";
+@import "./base/section-structure";
+@import "./base/button";
 
 // components
 @import "./components/header";
 @import "./components/logo";
 @import "./components/hero";
+@import "./components/benefits";
+@import "./components/service";
