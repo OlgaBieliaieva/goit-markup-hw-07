@@ -4,19 +4,22 @@
 @import "./utils/is-hidden";
 
 // base
-@import "./base/base";
+@import "./base/reset";
+@import "./base/global";
 @import "./base/section-structure";
+@import "./base/logo";
 @import "./base/button";
+@import "./base/socials-list";
 
 // components
 @import "./components/header";
-@import "./components/logo";
 @import "./components/hero";
 @import "./components/benefits";
 @import "./components/service";
 @import "./components/team";
-@import "./components/socials";
 @import "./components/clients";
 @import "./components/footer";
 @import "./components/modal";
 @import "./components/sign-up-form";
+@import "./components/portfolio-filter";
+@import "./components/portfolio";
